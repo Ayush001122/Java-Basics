@@ -4,7 +4,9 @@ public class Check_even_odd{
         Scanner sc= new Scanner(System.in);
         System.out.print("Enter number: ");
         int num=sc.nextInt();
-        if(num%2==0){
+        // even numbers are always divisible by 2  
+        
+        if(num%2==0){ 
             System.out.print("EVEN");
         }
         else{
