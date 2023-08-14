@@ -5,7 +5,7 @@ public class Area_circle{
     System.out.print("Enter radius: ");
     float rad=sc.nextFloat();
 
-    // Area of circle= 22/7*rad*rad or 3.14*rad*rad 
+    // Area of circle= 3.14*rad*rad 
     float Area= 3.14f*rad*rad;
     System.out.println("Area: " + Area);
   }
