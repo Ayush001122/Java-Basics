@@ -1,7 +1,7 @@
+// Report Card of Class 12th , CBSE
 public class Reportcard{
     public static void main(String args[]){ 
 
-        // Report card of 12th class(CBSE)
         System.out.println("Report Card of 12th");
 
         String name="Ayush";
