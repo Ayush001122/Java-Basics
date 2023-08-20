@@ -1,4 +1,5 @@
- public class Arithmetic{
+// Arithmetic-sum ,difference ,multiply , division, modulus
+public class Arithmetic{
     public static void main(String args[]){
         int a=4;    // value 1
         int b=2;    // value 2
