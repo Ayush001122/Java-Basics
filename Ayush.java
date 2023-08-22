@@ -1,6 +1,6 @@
 public class Ayush {
     
-    // First Program
+    // This is my First Program
 
     public static void main(String args []){
      System.out.print("Hello World! Ayush this side.");
