@@ -1,3 +1,4 @@
+// area of square
 import java.util.Scanner;
 public class Area_square{
     public static void main(String args[]){
