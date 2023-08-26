@@ -11,7 +11,7 @@ public class Arithmetic{
         // subtraction
         int d=a-b;
         System.out.println("Subtract: " + d);
-        
+       
         // multiplication
         int e=a*b;
         System.out.println("Multiplication: " + e);
