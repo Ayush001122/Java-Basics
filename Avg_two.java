@@ -1,3 +1,4 @@
+// average 
 import java.util.Scanner;
 public class Avg_two{
     public static void main(String args[]){
