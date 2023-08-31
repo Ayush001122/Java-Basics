@@ -1,3 +1,4 @@
+// age 
 import java.util.Scanner;
 public class Check_age{
     public static void main(String args[]){
