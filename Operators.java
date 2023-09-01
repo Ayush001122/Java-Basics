@@ -1,4 +1,4 @@
-// How many types of OPERATORS?
+// Types of OPERATORS?
 
 //== equal 
 // public class Operators{
