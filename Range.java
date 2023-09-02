@@ -1,3 +1,4 @@
+// Example of Range 
 import java.util.Scanner;
 public class Range{
   public static void main(String args[]){
