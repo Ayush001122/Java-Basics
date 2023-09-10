@@ -1,3 +1,4 @@
+// uppercase and lowercase
 import java.util.Scanner;
 public class Uppercase_lowercase{
     public static void main(String args[]){
