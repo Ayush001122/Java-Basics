@@ -1,4 +1,4 @@
-// Positive Negative 
+// Positive Negative Of Nunber 
 import java.util.Scanner;
 public class Positive_negative{
     public static void main(String args[]){
