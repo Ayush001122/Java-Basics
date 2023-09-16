@@ -1,3 +1,4 @@
+// average of 3
 import java.util.Scanner;
 public class Avg_three{
     public static void main(String args[]){
