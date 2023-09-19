@@ -1,4 +1,4 @@
-// GST 
+// GST ( Goods & Services Tax )
 import java.util.Scanner;
 public class GST{
     public static void main(String args[]){
